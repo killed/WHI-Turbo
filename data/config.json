@@ -1,0 +1,25 @@
+{
+    "discord":
+    {
+        "webhook": "https://discord.com/api/webhooks/XXX/XXX",
+        "descriptions": [
+            "I didn't see that coming :eyes:",
+            "This dumbass really swapped :joy:",
+            "Removal detected a swap :money_mouth:",
+            "Anotha one :point_up::skin-tone-1:",
+            "And... Anotha one :point_up::skin-tone-1:",
+            "I was not expecting that... :flushed:",
+            "Is it a bird? Is it a plane? No, it's just Removal detecting another swap! :cowboy:",
+            "It would be a shame if they lost that... :pensive:",
+            "Ah shit, here we go again :rolling_eyes:",
+            "This just in, a username has been swapped! :newspaper2:",
+            "Well, well, well. What do we have here then? :mag:"
+        ],
+        "headers": [
+            "Mashallah",
+            "Inshallah",
+            "Inshallah awadni <3",
+            "Panchod pudi"
+        ]
+    }
+}
